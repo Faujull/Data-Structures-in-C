@@ -28,7 +28,7 @@ This repository contains **C implementations** of various **data structures and 
 - 📂 `binary_search.c` – Binary Search  
 
 ## 🛠️ Programming Language  
-**C (Standard C99)**  
+**C**  
 
 ## 🚀 Purpose of This Repository  
 📌 To store and review code learned in class  
