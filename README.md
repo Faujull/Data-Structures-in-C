@@ -35,7 +35,4 @@ This repository contains **C implementations** of various **data structures and 
 📌 To practice and improve problem-solving skills  
 📌 To help others understand data structures in C  
 
-## ⚠️ Disclaimer  
-This repository contains **educational code** from my coursework. Please use it for **learning purposes only** and do not submit it as your own work in academic settings.  
 
----
